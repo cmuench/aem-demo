@@ -1,0 +1,23 @@
+.foo-wrapper {
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: center;
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 37%;
+    background-color: #f1f1f1;
+    border: 1px solid #000;
+    color: #000;
+    font-size: 0.7em;
+    line-height: 1.2em;
+}
+
+.foo-wrapper li {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
